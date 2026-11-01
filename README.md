@@ -88,6 +88,6 @@ The **Download ComfyUI for me** button fetches the pinned version for you and un
 ## Versions
 
 - **v0.1.0:** first public build.
-- **v0.2.0 (in preparation):** Download ComfyUI for me, workflows and launcher for plain ComfyUI, a "Your PC" check, checksum verification and a repair button for downloads, a Hugging Face token option, disk-space manager, automatic LoRA detection, many more image sizes with square as the default, update check and diagnostics.
+- **v0.2.0:** Download ComfyUI for me, workflows and launcher for plain ComfyUI, a "Your PC" check, checksum verification and a repair button for downloads, a Hugging Face token option, disk-space manager, automatic LoRA detection, many more image sizes with square as the default, update check and diagnostics.
 
 Models are downloaded from Hugging Face under their own licences. This repository only holds the downloadable builds; the source code is private.
