@@ -89,5 +89,6 @@ The **Download ComfyUI for me** button fetches the pinned version for you and un
 
 - **v0.1.0:** first public build.
 - **v0.2.0:** Download ComfyUI for me, workflows and launcher for plain ComfyUI, a "Your PC" check, checksum verification and a repair button for downloads, a Hugging Face token option, disk-space manager, automatic LoRA detection, many more image sizes with square as the default, update check and diagnostics.
+- **v0.2.1:** the app's local backend is locked down so only the gravyimage window can use it.
 
 Models are downloaded from Hugging Face under their own licences. This repository only holds the downloadable builds; the source code is private.
